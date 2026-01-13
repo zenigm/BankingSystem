@@ -1,4 +1,4 @@
-@131205SELECT * FROM "CreateSchema"."bank_records";
+SELECT * FROM "CreateSchema"."bank_records";
 SELECT * FROM "CreateSchema"."transcation";
 SELECT * FROM "CreateSchema"."cards";
 SELECT * FROM "CreateSchema"."customer";
